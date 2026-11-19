@@ -218,4 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Other
 Day2/data/scocen_tess_2min.npz
+Day4/fig/
+
